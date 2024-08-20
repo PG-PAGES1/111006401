@@ -1,0 +1,427 @@
+
+kk.png
+size: 1152,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yezi/particle_leaf_mystery_00
+  rotate: true
+  xy: 801, 29
+  size: 66, 67
+  orig: 200, 200
+  offset: 72, 67
+  index: -1
+yezi/particle_leaf_mystery_01
+  rotate: true
+  xy: 428, 6
+  size: 82, 84
+  orig: 200, 200
+  offset: 65, 58
+  index: -1
+yezi/particle_leaf_mystery_02
+  rotate: false
+  xy: 1032, 98
+  size: 96, 100
+  orig: 200, 200
+  offset: 59, 50
+  index: -1
+yezi/particle_leaf_mystery_03
+  rotate: true
+  xy: 1035, 2
+  size: 94, 115
+  orig: 200, 200
+  offset: 53, 42
+  index: -1
+yezi/particle_leaf_mystery_04
+  rotate: true
+  xy: 540, 93
+  size: 105, 127
+  orig: 200, 200
+  offset: 47, 35
+  index: -1
+yezi/particle_leaf_mystery_05
+  rotate: false
+  xy: 914, 102
+  size: 116, 96
+  orig: 200, 200
+  offset: 40, 71
+  index: -1
+yezi/particle_leaf_mystery_06
+  rotate: false
+  xy: 669, 95
+  size: 126, 103
+  orig: 200, 200
+  offset: 34, 67
+  index: -1
+yezi/particle_leaf_mystery_07
+  rotate: true
+  xy: 428, 90
+  size: 108, 110
+  orig: 200, 200
+  offset: 29, 65
+  index: -1
+yezi/particle_leaf_mystery_08
+  rotate: true
+  xy: 797, 97
+  size: 101, 115
+  orig: 200, 200
+  offset: 23, 64
+  index: -1
+yezi/particle_leaf_mystery_09
+  rotate: true
+  xy: 914, 2
+  size: 94, 119
+  orig: 200, 200
+  offset: 30, 63
+  index: -1
+yezi/particle_leaf_mystery_10
+  rotate: true
+  xy: 540, 10
+  size: 81, 126
+  orig: 200, 200
+  offset: 25, 60
+  index: -1
+yezi/particle_leaf_mystery_11
+  rotate: true
+  xy: 669, 8
+  size: 85, 130
+  orig: 200, 200
+  offset: 21, 59
+  index: -1
+yezi/particle_leaf_mystery_12
+  rotate: true
+  xy: 514, 74
+  size: 14, 8
+  orig: 200, 200
+  offset: 91, 183
+  index: -1
+youxijiemianbeijinxuanzhuananniuhedajiang/kk1
+  rotate: true
+  xy: 2, 13
+  size: 185, 211
+  orig: 185, 211
+  offset: 0, 0
+  index: -1
+youxijiemianbeijinxuanzhuananniuhedajiang/kk2
+  rotate: true
+  xy: 215, 13
+  size: 185, 211
+  orig: 185, 211
+  offset: 0, 0
+  index: -1
+
+
+kk1.jpg
+size: 1985,1659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeixuanzhuanguangxiao/freespin_vfx_b_08
+  rotate: false
+  xy: 2, 1231
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+mianfeixuanzhuanguangxiao/freespin_vfx_b_09
+  rotate: false
+  xy: 2, 5
+  size: 468, 368
+  orig: 540, 426
+  offset: 56, 58
+  index: -1
+mianfeizhanxingtexiao/freespin_vfx_b_00
+  rotate: false
+  xy: 2, 803
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+mianfeizhanxingtexiao/freespin_vfx_b_01
+  rotate: false
+  xy: 544, 1231
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+mianfeizhanxingtexiao/freespin_vfx_b_02
+  rotate: false
+  xy: 2, 375
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+mianfeizhanxingtexiao/freespin_vfx_b_03
+  rotate: false
+  xy: 544, 803
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_00
+  rotate: false
+  xy: 1628, 343
+  size: 174, 184
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_01
+  rotate: false
+  xy: 1628, 1090
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_02
+  rotate: true
+  xy: 853, 199
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_03
+  rotate: false
+  xy: 1628, 903
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_04
+  rotate: true
+  xy: 1040, 199
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_05
+  rotate: false
+  xy: 1628, 716
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_06
+  rotate: true
+  xy: 1227, 199
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_07
+  rotate: false
+  xy: 1628, 529
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_08
+  rotate: true
+  xy: 1414, 199
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_09
+  rotate: false
+  xy: 1804, 907
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_10
+  rotate: false
+  xy: 1804, 720
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_11
+  rotate: false
+  xy: 1804, 533
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_12
+  rotate: false
+  xy: 1804, 346
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_13
+  rotate: true
+  xy: 1601, 167
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_14
+  rotate: true
+  xy: 665, 23
+  size: 174, 185
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_15
+  rotate: false
+  xy: 1809, 1282
+  size: 174, 186
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_16
+  rotate: false
+  xy: 1809, 1094
+  size: 174, 186
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_17
+  rotate: true
+  xy: 472, 16
+  size: 174, 186
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+mianfeizhanxinngbiankuangtexiao/freespin_vfx_a_18
+  rotate: true
+  xy: 665, 199
+  size: 174, 186
+  orig: 180, 210
+  offset: 3, 13
+  index: -1
+xx/freespin_star_00
+  rotate: false
+  xy: 1721, 100
+  size: 57, 65
+  orig: 275, 275
+  offset: 106, 117
+  index: -1
+xx/freespin_star_01
+  rotate: false
+  xy: 1474, 106
+  size: 95, 91
+  orig: 275, 275
+  offset: 93, 104
+  index: -1
+xx/freespin_star_02
+  rotate: false
+  xy: 1351, 78
+  size: 121, 119
+  orig: 275, 275
+  offset: 85, 95
+  index: -1
+xx/freespin_star_03
+  rotate: false
+  xy: 1206, 60
+  size: 143, 137
+  orig: 275, 275
+  offset: 78, 88
+  index: -1
+xx/freespin_star_04
+  rotate: true
+  xy: 1827, 1500
+  size: 157, 153
+  orig: 275, 275
+  offset: 75, 83
+  index: -1
+xx/freespin_star_05
+  rotate: false
+  xy: 1035, 32
+  size: 169, 165
+  orig: 275, 275
+  offset: 71, 79
+  index: -1
+xx/freespin_star_06
+  rotate: false
+  xy: 852, 24
+  size: 181, 173
+  orig: 275, 275
+  offset: 67, 76
+  index: -1
+xx/freespin_star_07
+  rotate: false
+  xy: 472, 192
+  size: 191, 181
+  orig: 275, 275
+  offset: 64, 73
+  index: -1
+xx/freespin_star_08
+  rotate: false
+  xy: 1628, 1470
+  size: 197, 187
+  orig: 275, 275
+  offset: 63, 71
+  index: -1
+xx/freespin_star_09
+  rotate: false
+  xy: 1628, 1277
+  size: 179, 191
+  orig: 275, 275
+  offset: 85, 70
+  index: -1
+xx/freespin_star_10
+  rotate: false
+  xy: 1827, 1481
+  size: 15, 17
+  orig: 275, 275
+  offset: 221, 96
+  index: -1
+xx/freespin_star_11
+  rotate: false
+  xy: 1601, 358
+  size: 15, 15
+  orig: 275, 275
+  offset: 224, 96
+  index: -1
+youxijiemianguangxiao/frame_glow_free
+  rotate: true
+  xy: 1206, 2
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+youxijiemianguangxiao/k_light
+  rotate: false
+  xy: 1658, 98
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+youxijiemianguangxiao/light1
+  rotate: false
+  xy: 1571, 80
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+zhanxingfuhaotexiao/freespin_vfx_b_04
+  rotate: false
+  xy: 1086, 1231
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+zhanxingfuhaotexiao/freespin_vfx_b_05
+  rotate: false
+  xy: 544, 375
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+zhanxingfuhaotexiao/freespin_vfx_b_06
+  rotate: false
+  xy: 1086, 803
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+zhanxingfuhaotexiao/freespin_vfx_b_07
+  rotate: false
+  xy: 1086, 375
+  size: 540, 426
+  orig: 540, 426
+  offset: 0, 0
+  index: -1
+

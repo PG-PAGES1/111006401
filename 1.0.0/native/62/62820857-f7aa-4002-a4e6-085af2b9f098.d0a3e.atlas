@@ -1,0 +1,125 @@
+
+5kind.jpg
+size: 1001,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+solid_a
+  rotate: true
+  xy: 736, 258
+  size: 189, 78
+  orig: 189, 78
+  offset: 0, 0
+  index: -1
+solid_a_5_kind
+  rotate: true
+  xy: 843, 15
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_00
+  rotate: true
+  xy: 962, 153
+  size: 33, 37
+  orig: 290, 325
+  offset: 131, 170
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_01
+  rotate: true
+  xy: 743, 177
+  size: 79, 53
+  orig: 290, 325
+  offset: 107, 169
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_02
+  rotate: false
+  xy: 843, 111
+  size: 117, 75
+  orig: 290, 325
+  offset: 86, 158
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_03
+  rotate: true
+  xy: 743, 30
+  size: 145, 98
+  orig: 290, 325
+  offset: 70, 143
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_04
+  rotate: false
+  xy: 816, 188
+  size: 166, 120
+  orig: 290, 325
+  offset: 58, 126
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_05
+  rotate: false
+  xy: 816, 310
+  size: 183, 137
+  orig: 290, 325
+  offset: 49, 114
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_06
+  rotate: true
+  xy: 583, 249
+  size: 198, 151
+  orig: 290, 325
+  offset: 41, 104
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_07
+  rotate: true
+  xy: 574, 15
+  size: 210, 167
+  orig: 290, 325
+  offset: 34, 93
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_08
+  rotate: true
+  xy: 402, 227
+  size: 220, 179
+  orig: 290, 325
+  offset: 29, 84
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_09
+  rotate: true
+  xy: 211, 218
+  size: 229, 189
+  orig: 290, 325
+  offset: 24, 77
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_10
+  rotate: false
+  xy: 2, 4
+  size: 237, 199
+  orig: 290, 325
+  offset: 20, 70
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_11
+  rotate: true
+  xy: 2, 205
+  size: 242, 207
+  orig: 290, 325
+  offset: 16, 65
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_12
+  rotate: false
+  xy: 241, 2
+  size: 189, 214
+  orig: 290, 325
+  offset: 15, 60
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_13
+  rotate: false
+  xy: 432, 7
+  size: 140, 218
+  orig: 290, 325
+  offset: 65, 56
+  index: -1
+zhuanhuanlsetexiao/leaf_particle_14
+  rotate: true
+  xy: 583, 230
+  size: 17, 104
+  orig: 290, 325
+  offset: 177, 85
+  index: -1

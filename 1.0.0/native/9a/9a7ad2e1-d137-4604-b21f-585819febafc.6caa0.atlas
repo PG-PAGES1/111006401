@@ -1,0 +1,342 @@
+
+jiasu.png
+size: 1562,1562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bark
+  rotate: false
+  xy: 1182, 605
+  size: 211, 228
+  orig: 211, 228
+  offset: 0, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_00
+  rotate: false
+  xy: 1, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_01
+  rotate: false
+  xy: 1, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_02
+  rotate: false
+  xy: 170, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_03
+  rotate: false
+  xy: 1015, 471
+  size: 165, 362
+  orig: 169, 362
+  offset: 2, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_04
+  rotate: false
+  xy: 1184, 835
+  size: 165, 362
+  orig: 169, 362
+  offset: 2, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_05
+  rotate: false
+  xy: 1353, 1199
+  size: 165, 362
+  orig: 169, 362
+  offset: 2, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_06
+  rotate: false
+  xy: 1015, 107
+  size: 165, 362
+  orig: 169, 362
+  offset: 2, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_07
+  rotate: false
+  xy: 1, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_08
+  rotate: false
+  xy: 170, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_09
+  rotate: false
+  xy: 339, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_10
+  rotate: false
+  xy: 1, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_11
+  rotate: false
+  xy: 170, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_12
+  rotate: false
+  xy: 339, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_13
+  rotate: false
+  xy: 508, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_14
+  rotate: false
+  xy: 170, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_15
+  rotate: false
+  xy: 339, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_16
+  rotate: false
+  xy: 508, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_17
+  rotate: false
+  xy: 677, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_18
+  rotate: false
+  xy: 339, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_19
+  rotate: false
+  xy: 508, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_20
+  rotate: false
+  xy: 677, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_21
+  rotate: false
+  xy: 846, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_22
+  rotate: false
+  xy: 508, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_23
+  rotate: false
+  xy: 677, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_24
+  rotate: false
+  xy: 846, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_25
+  rotate: false
+  xy: 1015, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_26
+  rotate: false
+  xy: 677, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_27
+  rotate: false
+  xy: 846, 471
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_28
+  rotate: false
+  xy: 1015, 835
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_29
+  rotate: false
+  xy: 1184, 1199
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasu/glow_a_fast_30
+  rotate: false
+  xy: 846, 107
+  size: 167, 362
+  orig: 169, 362
+  offset: 1, 0
+  index: -1
+gunzhoujiasutexiao/particle_fast_00
+  rotate: true
+  xy: 922, 9
+  size: 96, 265
+  orig: 104, 337
+  offset: 4, 18
+  index: -1
+gunzhoujiasutexiao/particle_fast_01
+  rotate: true
+  xy: 1, 1
+  size: 104, 316
+  orig: 104, 337
+  offset: 0, 21
+  index: -1
+gunzhoujiasutexiao/particle_fast_02
+  rotate: false
+  xy: 1278, 328
+  size: 104, 275
+  orig: 104, 337
+  offset: 0, 22
+  index: -1
+gunzhoujiasutexiao/particle_fast_03
+  rotate: false
+  xy: 1454, 30
+  size: 92, 259
+  orig: 104, 337
+  offset: 10, 14
+  index: -1
+gunzhoujiasutexiao/particle_fast_04
+  rotate: true
+  xy: 1182, 214
+  size: 94, 265
+  orig: 104, 337
+  offset: 6, 19
+  index: -1
+gunzhoujiasutexiao/particle_fast_05
+  rotate: false
+  xy: 1395, 619
+  size: 94, 273
+  orig: 104, 337
+  offset: 5, 21
+  index: -1
+gunzhoujiasutexiao/particle_fast_06
+  rotate: false
+  xy: 1384, 322
+  size: 94, 281
+  orig: 104, 337
+  offset: 2, 22
+  index: -1
+gunzhoujiasutexiao/particle_fast_07
+  rotate: false
+  xy: 1351, 908
+  size: 94, 289
+  orig: 104, 337
+  offset: 1, 23
+  index: -1
+gunzhoujiasutexiao/particle_fast_08
+  rotate: false
+  xy: 1182, 310
+  size: 94, 293
+  orig: 104, 337
+  offset: 0, 24
+  index: -1
+gunzhoujiasutexiao/particle_fast_09
+  rotate: true
+  xy: 319, 11
+  size: 94, 297
+  orig: 104, 337
+  offset: 0, 27
+  index: -1
+gunzhoujiasutexiao/particle_fast_10
+  rotate: false
+  xy: 1491, 593
+  size: 70, 299
+  orig: 104, 337
+  offset: 21, 30
+  index: -1
+gunzhoujiasutexiao/particle_fast_11
+  rotate: false
+  xy: 1447, 894
+  size: 76, 303
+  orig: 104, 337
+  offset: 17, 33
+  index: -1
+gunzhoujiasutexiao/particle_fast_12
+  rotate: true
+  xy: 618, 27
+  size: 78, 302
+  orig: 104, 337
+  offset: 15, 35
+  index: -1
+gunzhoujiasutexiao/particle_fast_13
+  rotate: false
+  xy: 1480, 291
+  size: 80, 300
+  orig: 104, 337
+  offset: 12, 37
+  index: -1
+gunzhoujiasutexiao/particle_fast_14
+  rotate: true
+  xy: 1182, 120
+  size: 92, 267
+  orig: 104, 337
+  offset: 9, 12
+  index: -1
+gunzhoujiasutexiao/particle_fast_15
+  rotate: true
+  xy: 1189, 24
+  size: 94, 263
+  orig: 104, 337
+  offset: 6, 15
+  index: -1

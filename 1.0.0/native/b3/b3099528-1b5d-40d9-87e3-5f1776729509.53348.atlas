@@ -1,0 +1,132 @@
+
+bigwin.jpg
+size: 950,880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_a_01_bw
+  rotate: true
+  xy: 606, 166
+  size: 162, 253
+  orig: 162, 253
+  offset: 0, 0
+  index: -1
+light_b_01_bw
+  rotate: true
+  xy: 340, 8
+  size: 162, 253
+  orig: 162, 253
+  offset: 0, 0
+  index: -1
+light_c_01_bw
+  rotate: true
+  xy: 595, 2
+  size: 162, 253
+  orig: 162, 253
+  offset: 0, 0
+  index: -1
+solid_a_bw
+  rotate: true
+  xy: 861, 231
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+solid_b_bw
+  rotate: true
+  xy: 861, 132
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+solid_c_bw
+  rotate: true
+  xy: 876, 402
+  size: 108, 57
+  orig: 108, 57
+  offset: 0, 0
+  index: -1
+xuanzhuananniutexiao/Wave_01
+  rotate: false
+  xy: 328, 712
+  size: 324, 166
+  orig: 324, 222
+  offset: 0, 34
+  index: -1
+xuanzhuananniutexiao/Wave_02
+  rotate: false
+  xy: 2, 704
+  size: 324, 174
+  orig: 324, 222
+  offset: 0, 31
+  index: -1
+xuanzhuananniutexiao/Wave_03
+  rotate: false
+  xy: 2, 526
+  size: 318, 176
+  orig: 324, 222
+  offset: 3, 29
+  index: -1
+xuanzhuananniutexiao/Wave_04
+  rotate: false
+  xy: 620, 330
+  size: 254, 180
+  orig: 324, 222
+  offset: 35, 27
+  index: -1
+xuanzhuananniutexiao/Wave_05
+  rotate: false
+  xy: 340, 172
+  size: 264, 180
+  orig: 324, 222
+  offset: 30, 27
+  index: -1
+xuanzhuananniutexiao/Wave_06
+  rotate: false
+  xy: 340, 354
+  size: 278, 180
+  orig: 324, 222
+  offset: 23, 26
+  index: -1
+xuanzhuananniutexiao/Wave_07
+  rotate: false
+  xy: 634, 512
+  size: 284, 182
+  orig: 324, 222
+  offset: 20, 26
+  index: -1
+xuanzhuananniutexiao/Wave_08
+  rotate: false
+  xy: 654, 696
+  size: 294, 182
+  orig: 324, 222
+  offset: 15, 26
+  index: -1
+xuanzhuananniutexiao/Wave_09
+  rotate: false
+  xy: 328, 536
+  size: 304, 174
+  orig: 324, 222
+  offset: 10, 30
+  index: -1
+xuanzhuananniutexiao/Wave_10
+  rotate: true
+  xy: 166, 44
+  size: 310, 172
+  orig: 324, 222
+  offset: 7, 31
+  index: -1
+xuanzhuananniutexiao/Wave_11
+  rotate: false
+  xy: 2, 356
+  size: 316, 168
+  orig: 324, 222
+  offset: 4, 33
+  index: -1
+xuanzhuananniutexiao/Wave_12
+  rotate: true
+  xy: 2, 34
+  size: 320, 162
+  orig: 324, 222
+  offset: 2, 37
+  index: -1

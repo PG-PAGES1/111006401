@@ -1,0 +1,139 @@
+
+freeend.png
+size: 808,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxijiemianbeijinxuanzhuananniuhedajiang/fire_stick_l
+  rotate: true
+  xy: 684, 49
+  size: 41, 122
+  orig: 41, 122
+  offset: 0, 0
+  index: -1
+youxijiemianbeijinxuanzhuananniuhedajiang/fire_stick_r
+  rotate: true
+  xy: 684, 6
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+youxijiemianbeijinxuanzhuananniuhedajiang/vine_l
+  rotate: true
+  xy: 2, 2
+  size: 29, 660
+  orig: 39, 661
+  offset: 1, 1
+  index: -1
+youxijiemianbeijinxuanzhuananniuhedajiang/vine_r
+  rotate: true
+  xy: 2, 33
+  size: 57, 680
+  orig: 57, 680
+  offset: 0, 0
+  index: -1
+
+
+freeend1.jpg
+size: 1006,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeihuoyantexiao/fire_loop_00
+  rotate: false
+  xy: 2, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_01
+  rotate: false
+  xy: 137, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_02
+  rotate: true
+  xy: 2, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_03
+  rotate: false
+  xy: 272, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_04
+  rotate: true
+  xy: 166, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_05
+  rotate: false
+  xy: 407, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_06
+  rotate: true
+  xy: 330, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_07
+  rotate: false
+  xy: 542, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_08
+  rotate: true
+  xy: 494, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_09
+  rotate: false
+  xy: 677, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_10
+  rotate: false
+  xy: 812, 137
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_11
+  rotate: true
+  xy: 658, 2
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+solid_a_total
+  rotate: true
+  xy: 822, 27
+  size: 108, 151
+  orig: 108, 151
+  offset: 0, 0
+  index: -1
+solid_c_bw
+  rotate: true
+  xy: 947, 191
+  size: 108, 57
+  orig: 108, 57
+  offset: 0, 0
+  index: -1

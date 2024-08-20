@@ -1,0 +1,118 @@
+
+bg-light.png
+size: 853,742
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_stick_l
+  rotate: true
+  xy: 2, 2
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+fire_stick_r
+  rotate: false
+  xy: 806, 642
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_00
+  rotate: false
+  xy: 684, 594
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_01
+  rotate: false
+  xy: 243, 134
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_02
+  rotate: false
+  xy: 684, 446
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_03
+  rotate: false
+  xy: 365, 134
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_04
+  rotate: false
+  xy: 684, 298
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_05
+  rotate: false
+  xy: 487, 134
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_06
+  rotate: true
+  xy: 243, 12
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_07
+  rotate: true
+  xy: 391, 12
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_08
+  rotate: false
+  xy: 609, 134
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_09
+  rotate: true
+  xy: 539, 12
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_10
+  rotate: false
+  xy: 731, 150
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+mianfeihuoyantexiao/fire_loop_11
+  rotate: true
+  xy: 687, 12
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+youxijiemianguangxiao/background_bonus
+  rotate: false
+  xy: 2, 282
+  size: 680, 458
+  orig: 680, 458
+  offset: 0, 0
+  index: -1
+youxijiemianguangxiao/light_b_bg
+  rotate: false
+  xy: 2, 41
+  size: 239, 239
+  orig: 239, 239
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fornt_idle.png
+size: 946,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg_leaves_L
+  rotate: false
+  xy: 2, 20
+  size: 530, 471
+  orig: 530, 471
+  offset: 0, 0
+  index: -1
+fg_leaves_R
+  rotate: false
+  xy: 534, 2
+  size: 410, 489
+  orig: 410, 489
+  offset: 0, 0
+  index: -1

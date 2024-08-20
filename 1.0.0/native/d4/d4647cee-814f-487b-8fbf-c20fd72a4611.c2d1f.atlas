@@ -1,0 +1,13 @@
+
+s_mysterybox.png
+size: 171,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_mysterybox
+  rotate: false
+  xy: 2, 2
+  size: 167, 166
+  orig: 189, 189
+  offset: 5, 19
+  index: -1
